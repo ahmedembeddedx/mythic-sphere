@@ -1,7 +1,3 @@
-Great choice with "Mythic-Sphere"! Here's a basic README template for your GitHub repository:
-
----
-
 # Mythic-Sphere
 
 Mythic-Sphere is a social networking platform designed for the university community, built using the MERN stack (MongoDB, Express.js, React, Node.js). It aims to provide a platform where students and faculty members can connect, share information, and engage in discussions.
@@ -85,8 +81,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This project was inspired by the need for a dedicated social networking platform within the university community.
-- Special thanks to [Ahmed](https://github.com/ahmedembeddedx) for initiating and leading the development of Mythic-Sphere.
-
----
-
-Make sure to update placeholders like `[Ahmed](https://github.com/ahmedembeddedx)` with actual contributors' names and GitHub profiles. Also, include detailed instructions for setting up environment variables and any specific configurations needed for MongoDB or other services. Adjust the feature list and installation steps as per your actual implementation and future development plans.
